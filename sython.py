@@ -79,12 +79,12 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ WELCOME TO SOURCE TNT
+**☆ WELCOME TO SOURCE ABOD
 ☆ VERSION : 2.8
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ SOURCE TNT : @Is_TNT**
+☆ SOURCE abod : @u0uu0**
 
 -قـم بأرسال `.الاوامر`
 ''')
@@ -229,8 +229,8 @@ async def join_channel():
  
  
 GCAST_BLACKLIST = [
-    -1001884452589,
-    -1001884452589,
+    -1001915305903,
+    -1001915305903,
 ]
 
 DEVS = [
@@ -387,20 +387,20 @@ async def spammer(event):
     
 @sython.on(events.NewMessage(outgoing=True, pattern=".سورس"))
 async def _(event):
-      await event.reply("""السـورس يعمـل | TNT
+      await event.reply("""السـورس يعمـل | 𝘼𝘽𝙊𝘿┋🇮🇶₂₀₀₇
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 
-- المطور : علوش | Alosh
+- المطور : عبود | ABOF
 
 - سورس بسيط يحتوي على الاوامر المهمة التي تحتاجها
 
-قناة السورس : https://t.me/X_K_5
+قناة السورس : https://t.me/u0uu0
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍"""
 )
 
 @sython.on(events.NewMessage(outgoing=True, pattern=".مطور"))
 async def _(event):
-      await event.reply("""SY OWNER : @X_K_5"""
+      await event.reply(""" OWNER : @u0uu0"""
 )
 
 @sython.on(events.NewMessage(outgoing=True, pattern=".حلويات"))
