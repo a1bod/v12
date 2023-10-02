@@ -9,32 +9,32 @@
     "env": {
         "APP_ID": {
             "description": "الايـبـي ايــدي",
-            "value": "",
+            "value": "24290327",
             "required": true
         },
         "DEVLO": {
             "description": "ايدي حساب التحكم اذا ماتعرفه لاتغيرة",
-            "value": "6066647930",
+            "value": "5851291369",
             "required": true
         },
         "APP_HASH": {
             "description": "الايـبـي هــاش",
-            "value": "",
+            "value": "599c06c9a47edda284a54aa9b6ca181a",
             "required": true
         },
         "TERMUX": {
             "description": "كود تيرمكس",
-            "value": "",
+            "value": "1BJWap1sBu13DyajOiWcEEFFyKKWimZWuorD2cNgb_QqUZ01Id16TvjpH6jXLaZg9-Kx_qoxX7l2oEKxxuWzoYmtF4fW2DTy9c7gGfXpYRdOHj-zD-pP2L5Xcb8VGGghsWQfAOrjN-opK6d3PRvNAP9OBEB04j1UVWRCrxhlVS6XRrMGos59UPL0XW9OKg0K_29vDzp_YcJYtVfkW6VBoeadwM-O2ULqdFolMgusQBknts0Cusru_5Zta9nLNaYrsgWhTCHTgWpmA6GvStW9dz1AYBb9KmePuEgajWS_wAhZFmjctIrzu8ppkWWtmV_7meV1oOrkqonCOTPuYPCppEjhqAt56rPs=",
             "required": true
         },
         "TG_BOT_USERNAME": {
             "description": "هنا ضع معرف بوتك بدون @",
-            "value": "",
+            "value": "vip514bot",
             "required": true
         },
         "TG_BOT_TOKEN": {
             "description": "هنا ضع توكن بوتك الذي صنعته",
-            "value": "",
+            "value": "5663083414:AAFo0AJPYvTNMXacVN4BHLIOYjFyuEPemFc",
             "required": true
         }
     },
